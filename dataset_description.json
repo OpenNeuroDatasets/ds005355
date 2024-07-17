@@ -2,7 +2,7 @@
     "Name": "BSC_BIDS_071724",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Robert O. Duncan",
         "Evan A. Owens"
@@ -18,7 +18,7 @@
     "ReferencesAndLinks": [
         "Owens, E. A. and Duncan, R. O. (2024). Evidence of a Hierarchical Representation in Bodily Self-Consciousness: The Neural Correlates of Embodiment and Presence in Virtual Worlds. [In Submission]"
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005355.v1.0.0",
     "SourceDatasets": [],
     "GeneratedBy": [
         {
